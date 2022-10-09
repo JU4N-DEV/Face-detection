@@ -1,2 +1,2 @@
 # Face-detection
-DEteccion de caras y seguimiento de ellas.
+Deteccion de caras y seguimiento de ellas.
